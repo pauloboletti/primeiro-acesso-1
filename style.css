@@ -8,3 +8,6 @@ body {
 h1 {
     background-color: rgb(172, 68, 42);
 }
+root{
+    --cor-botao-e-titulo : #191970;
+}
